@@ -64,7 +64,7 @@
 
 kit_por_pl = [
 	["<EQUIPEMENT >>  ",por_u,"CUP_V_CPC_communications_coy","tf_rt1523g","CUP_H_Beret_HIL","CUP_G_PMC_RadioHeadset_Glasses_Dark"],
-	["<PRIMARY WEAPON >>  ",por_w_r,por_a_r,["","","CUP_optic_Elcan_SpecterDR_KF_black",""]],
+	["<PRIMARY WEAPON >>  ",por_w_r,por_a_r,["","CUP_acc_ANPEQ_15_Top_Flashlight_Black_L","CUP_optic_Elcan_SpecterDR_KF_black",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","rhsusf_weap_glock17g4","rhsusf_mag_17Rnd_9x19_JHP",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS_L],
@@ -75,7 +75,7 @@ kit_por_pl = [
 
 kit_por_sl = [
 	["<EQUIPEMENT >>  ",por_u,"CUP_V_CPC_tlbelt_coy","tf_rt1523g",por_h,por_g],
-	["<PRIMARY WEAPON >>  ",por_w_r,por_a_r,["","","CUP_optic_Elcan_SpecterDR_KF_black",""]],
+	["<PRIMARY WEAPON >>  ",por_w_r,por_a_r,["","CUP_acc_ANPEQ_15_Top_Flashlight_Black_L","CUP_optic_Elcan_SpecterDR_KF_black",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","rhsusf_weap_glock17g4","rhsusf_mag_17Rnd_9x19_JHP",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS_L],
@@ -86,7 +86,7 @@ kit_por_sl = [
 
 kit_por_ftl = [
 	["<EQUIPEMENT >>  ",por_u,"CUP_V_CPC_communicationsbelt_coy","",por_h,por_g],
-	["<PRIMARY WEAPON >>  ",por_w_r,por_a_r,["","","CUP_optic_Elcan_SpecterDR_KF_black",""]],
+	["<PRIMARY WEAPON >>  ",por_w_r,por_a_r,["","CUP_acc_ANPEQ_15_Top_Flashlight_Black_L","CUP_optic_Elcan_SpecterDR_KF_black",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","rhsusf_weap_glock17g4","rhsusf_mag_17Rnd_9x19_JHP",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS_L],
@@ -97,7 +97,7 @@ kit_por_ftl = [
 
 kit_por_ar = [
 	["<EQUIPEMENT >>  ",por_u,"CUP_V_CPC_lightbelt_coy","rhsusf_falconii_mc",por_h,por_g],
-	["<PRIMARY WEAPON >>  ","CUP_lmg_minimi_railed","CUP_200Rnd_TE4_Green_Tracer_556x45_M249_Pouch",["","","CUP_optic_ElcanM145_PIP",""]],
+	["<PRIMARY WEAPON >>  ","rhs_weap_m249_pip_S_para_vfg2","CUP_200Rnd_TE4_Green_Tracer_556x45_M249_Pouch",["","","CUP_optic_ElcanM145_PIP","rhsusf_acc_grip4_bipod"]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","rhsusf_weap_glock17g4","rhsusf_mag_17Rnd_9x19_JHP",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
@@ -108,7 +108,7 @@ kit_por_ar = [
 
 kit_por_gr = [
 	["<EQUIPEMENT >>  ",por_u,"CUP_V_CPC_weaponsbelt_coy","rhsusf_falconii_mc",por_h,por_g],
-	["<PRIMARY WEAPON >>  ","CUP_arifle_Mk16_STD_EGLM","CUP_30Rnd_556x45_PMAG_QP",["","","rhsusf_acc_compm4",""]],
+	["<PRIMARY WEAPON >>  ","CUP_arifle_Mk16_STD_EGLM","CUP_30Rnd_556x45_PMAG_QP",["","CUP_acc_Flashlight","rhsusf_acc_compm4",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","rhsusf_weap_glock17g4","rhsusf_mag_17Rnd_9x19_JHP",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
@@ -119,7 +119,7 @@ kit_por_gr = [
 
 kit_por_r = [
 	["<EQUIPEMENT >>  ",por_u,"CUP_V_CPC_Fastbelt_coy","rhsusf_falconii_mc",por_h,por_g],
-	["<PRIMARY WEAPON >>  ",por_w_r,por_a_r,["","","rhsusf_acc_compm4",""]],
+	["<PRIMARY WEAPON >>  ",por_w_r,por_a_r,["","CUP_acc_Flashlight","rhsusf_acc_compm4",""]],
 	["<LAUNCHER WEAPON >>  ","CUP_launch_M136_Loaded","CUP_M136_M",["","","",""]],
 	["<HANDGUN WEAPON >>  ","rhsusf_weap_glock17g4","rhsusf_mag_17Rnd_9x19_JHP",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
@@ -130,7 +130,7 @@ kit_por_r = [
 
 kit_por_medic = [
 	["<EQUIPEMENT >>  ",por_u,"CUP_V_CPC_Fastbelt_coy","rhsusf_falconii_mc",por_h,por_g],
-	["<PRIMARY WEAPON >>  ",por_w_r,por_a_r,["","","rhsusf_acc_compm4",""]],
+	["<PRIMARY WEAPON >>  ",por_w_r,por_a_r,["","CUP_acc_Flashlight","rhsusf_acc_compm4",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 	["<HANDGUN WEAPON >>  ","rhsusf_weap_glock17g4","rhsusf_mag_17Rnd_9x19_FMJ",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],

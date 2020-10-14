@@ -885,6 +885,7 @@ tSF_FARP_Compositions = [
 			,["Land_RedWhitePole_F",36.2738,5.463,359.954,0.024,false,{},true]
 			,["Land_CampingChair_V1_F",17.7797,7.932,354.812,0.027,false,{},true]
 			,["Land_CampingTable_F",24.0541,6.933,360,0.024,false,{},true]
+			,["Box_NATO_Equip_F",11.1028,6.41,94.17,0.024,false,{ EQUIP_BOX_CODE },true]
 		]
 	]	
 	, [
