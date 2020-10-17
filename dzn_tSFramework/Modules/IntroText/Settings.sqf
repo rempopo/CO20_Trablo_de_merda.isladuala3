@@ -11,7 +11,7 @@ GVAR(LineText1)	= "%1/%2/%3";
 GVAR(LineStyle1) = "<t align = 'right' shadow = '1' size = '0.7' font='PuristaBold'><br />%1</t>";
 
 // 2nd line
-GVAR(LineText2)	= "о. Дуала";
+GVAR(LineText2)	= "о. Дуала, окрестности н.п. Razfook, Чернорусская база ООН";
 GVAR(LineStyle2) = "<t align = 'right' shadow = '1' size = '0.7' font='PuristaBold'><br />%1</t>";
 
 // 3rd line

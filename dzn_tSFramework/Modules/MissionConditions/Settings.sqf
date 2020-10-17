@@ -51,19 +51,16 @@ tSF_MissionCondition_DefaultCheckTimer 			= 15;
 MissionCondition1 = [ "WIN1", {
 	VIP inArea baseTrg
 	&& [ TRG1, "RESISTANCE", "", "< 3"] call dzn_fnc_ccUnits
-	&& {call fnc_CheckPlayersReturned} 
 }, " vip saved, camp destroyed" ];
 
 MissionCondition2 = [ "WIN2", {
 	VIP inArea baseTrg
 	&& [ TRG1, "RESISTANCE", "", "> 3"] call dzn_fnc_ccUnits 
-	&& {call fnc_CheckPlayersReturned} 
 }, "only vip saved" ];
 
 MissionCondition3 = [ "WIN3", {
 	!alive VIP
 	&& [ TRG1, "RESISTANCE", "", "< 3"] call dzn_fnc_ccUnits 
-	&& {call fnc_CheckPlayersReturned} 
 }, "vip dead, camp destroyed" ];
 
 MissionCondition4 = [ "WIPED", { call fnc_isAllDead }, "All dead", 30 ];
